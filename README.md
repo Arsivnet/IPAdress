@@ -1,5 +1,5 @@
 # IPAdress
-Finds the IPv4 and IPv6 addresses for a given host. Written in C
+Finds the IPv4 and IPv6 addresses for a given host. Written in C for Linux.
 
 Compilation is pretty easy. Just go to the directory where main.c is in a commandline and type: 
 ```

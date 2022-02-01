@@ -13,7 +13,7 @@ example usage:
 IPAdress www.google.com
 ```
 
-**Türkçe**
+# Türkçe
 Verilen sunucu isminin IPv4 ve IPv6 adreslerini bulan basit bir komut istemcisi programı. C dili ile yazılmıştır.
 
 Derlemesi gayet basit. komut istemcisinde buradan çektiğiniz main.c dosyasının olduğu konuma gidin ve şu komutu girin:
